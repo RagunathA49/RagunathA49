@@ -39,10 +39,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ---
-
 ### :woman_technologist: About Me :
   I am a Full Stack Developer & Network Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  :telescope:I am a 19 year old computer science student currently pursuing a B.TECH degree from SRM University.
-  :seedling:I am currently in 3rd year learning and developing new skills.
-  :zap: In my free time, I play music 
-  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  - :telescope:I am a 19 year old computer science student currently pursuing a B.TECH degree from SRM University.
+  - :seedling:I am currently in 3rd year learning and developing new skills.
+  - :zap: In my free time, I play music 
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
