@@ -31,11 +31,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=RagunathA49&style=flat-square&color=blue" alt=""/>
-<div>
+
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
   - :telescope:I am a 19 year old computer science student currently pursuing a B.TECH degree from SRM University.
   - :seedling:I am currently in 3rd year learning and developing new skills.
   - :zap: In my free time, I play music 
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  - :mailbox:How to reach me: ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(your-linkedin-url)
   
   ---
 
