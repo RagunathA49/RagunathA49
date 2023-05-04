@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
+
+  ---
 
 ### :woman_technologist: About Me :
   
@@ -48,12 +49,18 @@ Here are some ideas to get you started:
   - :telescope:I am a 19 year old computer science student currently pursuing a B.TECH degree from SRM University.
   - :seedling:I am currently in 3rd year learning and developing new skills.
   - :zap: In my free time, I play music 
-  - :mailbox:How to reach me: ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(your-linkedin-url)
-  
+ 
+  ### 🤝 Connect with me:
+<a href="https://www.instagram.com/ragunath_a_49/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="30px"/></a>
+  </br>
+  ---
+
+### :hammer_and_wrench: Languages and Tools :
+
   ---
 
 ### :fire: My Stats :
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RagunathA49&theme=dark&background=000000)](https://git.io/streak-stats)
   
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RagunathA49&layout=compact&theme=vision-friendly-dark)](https://github.com/RagunathA49/github-readme-stats)
