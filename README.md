@@ -91,4 +91,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RagunathA49&theme=dark&background=000000)](https://git.io/streak-stats)
   
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RagunathA49&layout=compact&theme=vision-friendly-dark)](https://github.com/RagunathA49/github-readme-stats) -->
-![RagunathA49 GitHub stats](https://github-readme-stats.vercel.app/api?username=RagunathA49&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RagunathA49&layout=compact&theme=radical)
