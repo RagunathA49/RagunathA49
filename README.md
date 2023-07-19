@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
   
   I am a Full Stack Developer & Network Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  - :telescope:I am a 19 year old computer science student currently pursuing a B.TECH degree from SRM University.
-  - :seedling:I am currently in 3rd year learning and developing new skills.
+  - :telescope: I am a 19-year-old computer science student pursuing a B.TECH degree from SRM University.
+  - :seedling: I am currently in 4th year of learning and developing new skills.
   - :zap: In my free time, I play music 
  
   ### 🤝 Connect with me:
